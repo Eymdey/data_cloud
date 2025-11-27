@@ -1,6 +1,6 @@
 # Rapport : Analyse des modèles de services Cloud sur Google Cloud Platform (GCP)
 
-**Étudiant :** Dorian  
+**Étudiant :** Dorian Marty
 **Module :** Cloud Computing & Architecture  
 **Date :** 27 Novembre 2025  
 
