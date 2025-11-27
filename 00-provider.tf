@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project = "terraform-479510" # Remplacez par votre ID de projet GCP
+  project = "terraform-479510"
   region  = "europe-west1"
   zone    = "europe-west1-b"
 }
